@@ -1,0 +1,67 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "src.Main",
+            "projectName": "Java_ff576f46"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "java_day06.src.Hello",
+            "projectName": "Java_ff576f46"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_ff576f46"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - day3",
+            "request": "launch",
+            "mainClass": "src.day3",
+            "projectName": "Java_ff576f46"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Game",
+            "request": "launch",
+            "mainClass": "src.PeopleAndRobot.Game",
+            "projectName": "Java_ff576f46"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "src.GoShopManagement.Main",
+            "projectName": "Java_ff576f46"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - he",
+            "request": "launch",
+            "mainClass": "he",
+            "projectName": "Java_ff576f46"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Java_ff576f46"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java_ff576f46"
+        }
+    ]
+}

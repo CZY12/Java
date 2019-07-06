@@ -1,0 +1,2129 @@
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR demo.py:15 error info
+WARNING demo.py:16 warn info
+INFO demo.py:17 info info
+DEBUG demo.py:18 debug info
+ERROR demo.py:15 error info
+WARNING demo.py:16 warn info
+INFO demo.py:17 info info
+DEBUG demo.py:18 debug info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR demo.py:15 error info
+WARNING demo.py:16 warn info
+INFO demo.py:17 info info
+DEBUG demo.py:18 debug info
+ERROR demo.py:15 error info
+WARNING demo.py:16 warn info
+INFO demo.py:17 info info
+DEBUG demo.py:18 debug info
+WARNING _internal.py:88  * Debugger is active!
+ERROR demo.py:15 error info
+WARNING demo.py:16 warn info
+INFO demo.py:17 info info
+DEBUG demo.py:18 debug info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR __init__.py:97 Error: Path doesn't exist: 'migrations'.  Please use the 'init' command to create a new scripts folder.
+WARNING _internal.py:88  * Debugger is active!
+ERROR demo.py:15 error info
+WARNING demo.py:16 warn info
+INFO demo.py:17 info info
+DEBUG demo.py:18 debug info
+ERROR demo.py:15 error info
+WARNING demo.py:16 warn info
+INFO demo.py:17 info info
+DEBUG demo.py:18 debug info
+ERROR __init__.py:97 Error: Directory migrations already exists
+ERROR __init__.py:97 Error: Directory migrations already exists
+ERROR __init__.py:97 Error: Directory migrations already exists
+ERROR __init__.py:97 Error: Directory migrations already exists
+ERROR __init__.py:97 Error: Directory migrations already exists
+WARNING _internal.py:88  * Debugger is active!
+ERROR demo.py:15 error info
+WARNING demo.py:16 warn info
+INFO demo.py:17 info info
+DEBUG demo.py:18 debug info
+ERROR demo.py:15 error info
+WARNING demo.py:16 warn info
+INFO demo.py:17 info info
+DEBUG demo.py:18 debug info
+ERROR demo.py:15 error info
+WARNING demo.py:16 warn info
+INFO demo.py:17 info info
+DEBUG demo.py:18 debug info
+ERROR demo.py:15 error info
+WARNING demo.py:16 warn info
+INFO demo.py:17 info info
+DEBUG demo.py:18 debug info
+WARNING _internal.py:88  * Debugger is active!
+ERROR demo.py:15 error info
+WARNING demo.py:16 warn info
+INFO demo.py:17 info info
+DEBUG demo.py:18 debug info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:108 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:108 [Errno socket error] [Errno 10061] 
+ERROR verify_code.py:108 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:108 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:108 send_sms() takes exactly 2 arguments (3 given)
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:108 send_sms() takes exactly 2 arguments (3 given)
+ERROR verify_code.py:108 send_sms() takes exactly 2 arguments (3 given)
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:108 send_sms() takes exactly 2 arguments (3 given)
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:108 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:108 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:108 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 [Errno socket error] [Errno 10061] 
+ERROR verify_code.py:110 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 'module' object has no attribute 'send_sms'
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 HTTPConnectionPool(host='127.0.0.1', port=4210): Max retries exceeded with url: http://v.juhe.cn/sms/send?mobile=15779899902&key=5a38cf17eb31c57ae4c7904f291bcb1c&tpl_id=146878&tpl_value=%23code%23%3D5183 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000061FFE10>: Failed to establish a new connection: [Errno 10061] ',)))
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 HTTPConnectionPool(host='127.0.0.1', port=4210): Max retries exceeded with url: http://v.juhe.cn/sms/send?mobile=15779899902&key=8b5ecbc3f493d30bd630a03592ce240d&tpl_id=146959&tpl_value=%23code%23%3D0703 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000063249B0>: Failed to establish a new connection: [Errno 10061] ',)))
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 HTTPConnectionPool(host='127.0.0.1', port=4210): Max retries exceeded with url: http://v.juhe.cn/sms/send?mobile=15779899902&key=8b5ecbc3f493d30bd630a03592ce240d&tpl_id=146959&tpl_value=%23code%23%3D1967 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005DABDA0>: Failed to establish a new connection: [Errno 10061] ',)))
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 HTTPConnectionPool(host='49.86.177.54', port=9999): Max retries exceeded with url: http://v.juhe.cn/sms/send?mobile=15779899902&key=8b5ecbc3f493d30bd630a03592ce240d&tpl_id=146959&tpl_value=%23code%23%3D7313 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005C12908>: Failed to establish a new connection: [Errno 10061] ',)))
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 HTTPConnectionPool(host='111.75.223.9', port=35918): Max retries exceeded with url: http://v.juhe.cn/sms/send?mobile=15779899902&key=8b5ecbc3f493d30bd630a03592ce240d&tpl_id=146959&tpl_value=%23code%23%3D2179 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000063F3BE0>: Failed to establish a new connection: [Errno 10061] ',)))
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 HTTPConnectionPool(host='127.0.0.1', port=4210): Max retries exceeded with url: http://v.juhe.cn/sms/send?mobile=15779899902&key=8b5ecbc3f493d30bd630a03592ce240d&tpl_id=146959&tpl_value=%23code%23%3D2179 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000005E4FDA0>: Failed to establish a new connection: [Errno 10061] ',)))
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 global name 'urlencode' is not defined
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 'module' object has no attribute 'parse'
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 Extra data: line 2 column 1 - line 5 column 1 (char 4 - 107)
+ERROR verify_code.py:110 Extra data: line 2 column 1 - line 5 column 1 (char 4 - 107)
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 Extra data: line 2 column 1 - line 5 column 1 (char 4 - 107)
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 Extra data: line 2 column 1 - line 5 column 1 (char 4 - 107)
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 Extra data: line 2 column 1 - line 5 column 1 (char 4 - 107)
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 Extra data: line 2 column 1 - line 5 column 1 (char 4 - 108)
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 No JSON object could be decoded
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:110 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:113 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:124 'NoneType' object has no attribute 'group'
+ERROR verify_code.py:124 'NoneType' object has no attribute 'group'
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:123 [Errno 10054] 
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:124 'NoneType' object has no attribute 'group'
+ERROR verify_code.py:124 'NoneType' object has no attribute 'group'
+ERROR verify_code.py:124 'NoneType' object has no attribute 'group'
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:124 'NoneType' object has no attribute 'group'
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:123 [Errno socket error] [Errno 10061] 
+ERROR verify_code.py:123 [Errno socket error] [Errno 10061] 
+ERROR verify_code.py:123 [Errno socket error] [Errno 10061] 
+ERROR verify_code.py:123 [Errno socket error] [Errno 10061] 
+ERROR verify_code.py:123 Extra data: line 1 column 2 - line 5 column 1 (char 1 - 121)
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:123 [Errno socket error] [Errno 10061] 
+WARNING _internal.py:88  * Debugger is active!
+ERROR verify_code.py:123 'NoneType' object has no attribute 'group'
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR passport.py:43 unsupported format character 'S' (0x53) at index 10
+WARNING _internal.py:88  * Debugger is active!
+ERROR passport.py:43 unsupported format character 'S' (0x53) at index 10
+ERROR passport.py:43 unsupported format character 'S' (0x53) at index 10
+ERROR passport.py:43 unsupported format character 'S' (0x53) at index 10
+ERROR passport.py:43 unsupported format character 'S' (0x53) at index 10
+WARNING _internal.py:88  * Debugger is active!
+ERROR passport.py:43 unsupported format character 'S' (0x53) at index 10
+WARNING _internal.py:88  * Debugger is active!
+ERROR passport.py:44 unsupported format character 'S' (0x53) at index 10
+WARNING _internal.py:88  * Debugger is active!
+ERROR passport.py:44 unsupported format character 'S' (0x53) at index 10
+WARNING _internal.py:88  * Debugger is active!
+ERROR passport.py:43 unsupported format character 'S' (0x53) at index 10
+ERROR passport.py:43 unsupported format character 'S' (0x53) at index 10
+WARNING _internal.py:88  * Debugger is active!
+ERROR passport.py:44 unsupported format character 'S' (0x53) at index 10
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:46 value is not an integer or out of range
+ERROR houses.py:46 value is not an integer or out of range
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:46 value is not an integer or out of range
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:46 value is not an integer or out of range
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:46 value is not an integer or out of range
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:23 hit redis area_info
+INFO houses.py:23 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:362 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:422 'module' object has no attribute 'HOUSE_LIST_PAGE_CAPACITY'
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:362 int() argument must be a string or a number, not 'NoneType'
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:362 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:314 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:32 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+ERROR houses.py:32 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+ERROR houses.py:32 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+ERROR houses.py:32 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+ERROR houses.py:32 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+ERROR houses.py:32 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+ERROR houses.py:32 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+ERROR houses.py:32 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+ERROR houses.py:32 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+ERROR houses.py:32 'ascii' codec can't encode characters in position 0-2: ordinal not in range(128)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:392 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.begin_date <= %(begin_date_1)s AND ih_order_info.end_date >= %(end_date_1)s]
+[parameters: {u'begin_date_1': datetime.datetime(2019, 4, 18, 0, 0), u'end_date_1': datetime.datetime(2019, 4, 17, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:392 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.begin_date <= %(begin_date_1)s AND ih_order_info.end_date >= %(end_date_1)s]
+[parameters: {u'begin_date_1': datetime.datetime(2019, 4, 18, 0, 0), u'end_date_1': datetime.datetime(2019, 4, 17, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:392 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.begin_date <= %(begin_date_1)s AND ih_order_info.end_date >= %(end_date_1)s]
+[parameters: {u'begin_date_1': datetime.datetime(2019, 4, 18, 0, 0), u'end_date_1': datetime.datetime(2019, 4, 17, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:392 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.begin_date <= %(begin_date_1)s AND ih_order_info.end_date >= %(end_date_1)s]
+[parameters: {u'begin_date_1': datetime.datetime(2019, 4, 30, 0, 0), u'end_date_1': datetime.datetime(2019, 4, 10, 0, 0)}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 2, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+
+
+
+
+
+
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+
+
+
+
+
+
+
+
+
+
+
+
+
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:313 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+WARNING _internal.py:88  * Debugger is active!
+ERROR houses.py:312 (pymysql.err.InternalError) (1054, u"Unknown column 'ih_order_info.trade_no' in 'field list'")
+[SQL: SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no 
+FROM ih_order_info 
+WHERE ih_order_info.house_id = %(house_id_1)s AND ih_order_info.status = %(status_1)s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC 
+ LIMIT %(param_1)s]
+[parameters: {u'house_id_1': 1, u'param_1': 30, u'status_1': 'COMPLETE'}]
+(Background on this error at: http://sqlalche.me/e/2j85)
+ERROR __init__.py:97 Error: Directory migrations already exists
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:294 hit house info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:294 hit house info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:294 hit house info redis
+INFO houses.py:294 hit house info redis
+INFO houses.py:294 hit house info redis
+INFO houses.py:294 hit house info redis
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:294 hit house info redis
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:294 hit house info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:295 hit house info redis
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:295 hit house info redis
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:295 hit house info redis
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:294 hit house info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:294 hit house info redis
+INFO houses.py:294 hit house info redis
+WARNING _internal.py:88  * Debugger is active!
+
+
+
+
+INFO houses.py:294 hit house info redis
+INFO houses.py:294 hit house info redis
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:294 hit house info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+ERROR _internal.py:88 Error on request:
+Traceback (most recent call last):
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 261, in execute
+    write(data)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 227, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+ERROR _internal.py:88 Error on request:
+Traceback (most recent call last):
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 261, in execute
+    write(data)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 227, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+ERROR _internal.py:88 Error on request:
+Traceback (most recent call last):
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 261, in execute
+    write(data)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 227, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+ERROR _internal.py:88 Error on request:
+Traceback (most recent call last):
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 261, in execute
+    write(data)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 227, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+ERROR _internal.py:88 Error on request:
+Traceback (most recent call last):
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 261, in execute
+    write(data)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 227, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+ERROR _internal.py:88 Error on request:
+Traceback (most recent call last):
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 261, in execute
+    write(data)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 227, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+ERROR _internal.py:88 Error on request:
+Traceback (most recent call last):
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 270, in run_wsgi
+    execute(self.server.app)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 261, in execute
+    write(data)
+  File "/home/czy/.local/lib/python2.7/site-packages/werkzeug/serving.py", line 227, in write
+    self.send_header(key, value)
+  File "/usr/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+
+
+
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:294 hit house info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:294 hit house info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+ERROR profile.py:33 上传七牛失败
+ERROR profile.py:33 上传七牛失败
+ERROR profile.py:33 上传七牛失败
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+ERROR profile.py:33 "Please check your BUCKET_NAME! The UpHosts is {u'error': u'accessKey is not found'}"
+WARNING _internal.py:88  * Debugger is active!
+ERROR profile.py:33 上传七牛失败
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+ERROR app.py:1761 Exception on /admin/ [GET]
+Traceback (most recent call last):
+  File "D:\Program Files\Python27\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program Files\Python27\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program Files\Python27\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program Files\Python27\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program Files\Python27\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\base.py", line 69, in inner
+    return self._run_view(f, *args, **kwargs)
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\base.py", line 368, in _run_view
+    return fn(self, *args, **kwargs)
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\base.py", line 452, in index
+    return self.render(self._template)
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\base.py", line 308, in render
+    return render_template(template, **kwargs)
+  File "D:\Program Files\Python27\lib\site-packages\flask\templating.py", line 135, in render_template
+    context, ctx.app)
+  File "D:\Program Files\Python27\lib\site-packages\flask\templating.py", line 117, in _render
+    rv = template.render(context)
+  File "D:\Program Files\Python27\lib\site-packages\jinja2\environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "D:\Program Files\Python27\lib\site-packages\jinja2\environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\TEST\ihome\ihome\templates\admin\index.html", line 1, in top-level template code
+    {% extends 'admin/master.html' %}
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\templates\bootstrap3\admin\master.html", line 1, in top-level template code
+    {% extends admin_base_template %}
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\templates\bootstrap3\admin\base.html", line 38, in top-level template code
+    {% block page_body %}
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\templates\bootstrap3\admin\base.html", line 55, in block "page_body"
+    {% block main_menu %}
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\templates\bootstrap3\admin\base.html", line 57, in block "main_menu"
+    {{ layout.menu() }}
+  File "D:\Program Files\Python27\lib\site-packages\jinja2\runtime.py", line 579, in _invoke
+    rv = self._func(*arguments)
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\templates\bootstrap3\admin\layout.html", line 59, in template
+    {%- if item.is_accessible() and item.is_visible() -%}
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\menu.py", line 126, in is_accessible
+    return self._view.is_accessible()
+  File "D:\TEST\ihome\ihome\admin\forms.py", line 86, in is_accessible
+    if current_user.is_authenticated and current_user=='admin':
+  File "D:\Program Files\Python27\lib\site-packages\werkzeug\local.py", line 347, in __getattr__
+    return getattr(self._get_current_object(), name)
+AttributeError: 'int' object has no attribute 'is_authenticated'
+ERROR app.py:1761 Exception on /admin/ [GET]
+Traceback (most recent call last):
+  File "D:\Program Files\Python27\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Program Files\Python27\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Program Files\Python27\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Program Files\Python27\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Program Files\Python27\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\base.py", line 69, in inner
+    return self._run_view(f, *args, **kwargs)
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\base.py", line 368, in _run_view
+    return fn(self, *args, **kwargs)
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\base.py", line 452, in index
+    return self.render(self._template)
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\base.py", line 308, in render
+    return render_template(template, **kwargs)
+  File "D:\Program Files\Python27\lib\site-packages\flask\templating.py", line 135, in render_template
+    context, ctx.app)
+  File "D:\Program Files\Python27\lib\site-packages\flask\templating.py", line 117, in _render
+    rv = template.render(context)
+  File "D:\Program Files\Python27\lib\site-packages\jinja2\environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "D:\Program Files\Python27\lib\site-packages\jinja2\environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\TEST\ihome\ihome\templates\admin\index.html", line 1, in top-level template code
+    {% extends 'admin/master.html' %}
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\templates\bootstrap3\admin\master.html", line 1, in top-level template code
+    {% extends admin_base_template %}
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\templates\bootstrap3\admin\base.html", line 38, in top-level template code
+    {% block page_body %}
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\templates\bootstrap3\admin\base.html", line 55, in block "page_body"
+    {% block main_menu %}
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\templates\bootstrap3\admin\base.html", line 57, in block "main_menu"
+    {{ layout.menu() }}
+  File "D:\Program Files\Python27\lib\site-packages\jinja2\runtime.py", line 579, in _invoke
+    rv = self._func(*arguments)
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\templates\bootstrap3\admin\layout.html", line 59, in template
+    {%- if item.is_accessible() and item.is_visible() -%}
+  File "D:\Program Files\Python27\lib\site-packages\flask_admin\menu.py", line 126, in is_accessible
+    return self._view.is_accessible()
+  File "D:\TEST\ihome\ihome\admin\forms.py", line 86, in is_accessible
+    if current_user.is_authenticated and current_user=='admin':
+  File "D:\Program Files\Python27\lib\site-packages\werkzeug\local.py", line 347, in __getattr__
+    return getattr(self._get_current_object(), name)
+AttributeError: 'int' object has no attribute 'is_authenticated'
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:222 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+ERROR houses.py:222 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+ERROR houses.py:222 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+ERROR houses.py:222 'ascii' codec can't encode characters in position 0-3: ordinal not in range(128)
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+WARNING _internal.py:88  * Debugger is active!
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:294 hit house info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
+INFO houses.py:25 hit redis area_info
+INFO houses.py:244 hit house index info redis
+INFO houses.py:25 hit redis area_info
